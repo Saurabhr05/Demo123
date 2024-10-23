@@ -1,0 +1,2 @@
+Public satic void main{
+}
